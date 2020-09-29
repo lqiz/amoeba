@@ -1,0 +1,54 @@
+{
+  "type": "map",
+  "key": "99-%s, class_id",
+  "value": "",
+  "items": {
+    "type": "object",
+    "properties": {
+      "product_type": {
+        "type": "integer",
+        "value": "66"
+      },
+      "product_id": {
+        "type": "integer",
+        "value":  "class_id"
+      },
+      "title": {
+        "type": "string",
+        "value": "新的名字：%s,internal_class_info.name"
+      },
+      "article_title": {
+        "type": "string",
+        "value": "title"
+      },
+      "alias_id": {
+        "type": "string",
+        "value": "audio.audio.media_id"
+      },
+      "progress": {
+        "type": "integer",
+        "value": "audio.audio.listen_progress"
+      },
+      "ddurl": {
+        "type": "string",
+        "value": "audio.audio.listen_progress"
+      },
+      "cover_image": {
+        "type": "string",
+        "value": "internal_class_info.index_img"
+      },
+      "article_id": {
+        "type": "integer",
+        "value": "dd_article_id"
+      },
+      "is_finish": {
+        "type": "integer",
+        "value": "internal_class_info.is_finished"
+      },
+      "is_try_read": {
+        "type": "integer",
+        "value": "is_user_free_try"
+      }
+    }
+  }
+}

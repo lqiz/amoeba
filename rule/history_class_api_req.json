@@ -1,0 +1,41 @@
+{
+  "type": "object",
+  "value": "",
+  "properties": {
+    "keys": {
+      "type": "array",
+      "value": "req",
+      "items": {
+        "type": "string",
+        "value": "99-%s, pid"
+      }
+    },
+    "uid": {
+      "type": "integer"
+    },
+    "is_article_id_new": {
+      "type": "boolean"
+    },
+    "load_audio": {
+      "type": "boolean"
+    },
+    "load_class_info": {
+      "type": "boolean"
+    },
+    "load_lecturers_info": {
+      "type": "boolean"
+    },
+    "load_is_buy": {
+      "type": "boolean"
+    },
+    "load_class_buy_count": {
+      "type": "boolean"
+    },
+    "load_share_info": {
+      "type": "boolean"
+    },
+    "load_trial_info": {
+      "type": "boolean"
+    }
+  }
+}
